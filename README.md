@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "about_me" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/TheKompot/TheKompot/blob/main/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="right_side" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/TheKompot/TheKompot/blob/main/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -98,7 +98,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="handshake" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/TheKompot/TheKompot/blob/main/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
