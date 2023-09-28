@@ -18,8 +18,8 @@
 <br>
 
 - A passionate Data Scientist
-- Studying at Comenius University in Bratislava
-- Working as a Data Scientist at the Slovakian Power Plants 
+- Studying at KTH Royal Institute of Technology in Stockholm
+- More than 2 years of profesional experience 
 - Interested in Statistics and Machine Learning
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/) -->
 
